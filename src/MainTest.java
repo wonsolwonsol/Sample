@@ -6,6 +6,9 @@ public class MainTest {
 		//https://github.com/wonsolwonsol/Sample.git
 		System.out.println("hello"); 
 		System.out.println("world");
+		//확인용 MESG; 
+		
+		
 	}
 
 }
