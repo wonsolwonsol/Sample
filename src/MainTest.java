@@ -2,8 +2,9 @@
 public class MainTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		// git staging 반드시 열어놓기 
+		//https://github.com/wonsolwonsol/Sample.git
+		System.out.println("hello"); 
 	}
 
 }
